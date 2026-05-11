@@ -1,0 +1,6 @@
+Config,Layers,Neurons,Learning Rate,Batch Size,Val Accuracy,Test Accuracy
+Config A - Default,3,128,0.0005,64,0.9922,0.9833
+Config B - Wider Net,3,256,0.0005,64,0.9922,0.9833
+Config C - Shallow,1,128,0.0005,64,0.9922,0.9833
+Config D - Higher LR,3,128,0.01,64,0.9922,0.9833
+Config E - Small Batch,3,128,0.0005,16,0.9922,0.9833
